@@ -1,1 +1,5 @@
-## SoDak_Agentic_AI_Practicals LangChain 
+## SoDak_Agentic_AI_Practicals
+
+LangChain 
+
+DB inplemented
