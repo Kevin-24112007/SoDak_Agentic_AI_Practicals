@@ -2,4 +2,4 @@
 
 LangChain 
 
-DB inplemented
+DB implemented
